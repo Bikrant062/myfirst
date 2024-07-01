@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(217, 255, 0);
+    font-family: sans-serif;
+    margin: 10;
+    padding: 50;
+}
+.center{
+    text-align: center;
+}
+ hr
+  {
+        border: none;
+        height: 2px;
+        background-color: beige;
+        border-radius: 5px;
+}
+hr.one{
+    border: none;
+    height: 4px;
+    background-color: bisque;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    ;
+}
+.h3{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
